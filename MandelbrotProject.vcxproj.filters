@@ -18,6 +18,9 @@
     <ClCompile Include="mandelbrot_programming1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="mandelbrot_programming2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mandelbrot.h">
